@@ -38,6 +38,7 @@ class ParseFontFile(ParseXml):
         """
         if font_file_handler:
             font = TTFont(file=font_file_handler)
+            font_file_handler.close()
         elif self._font_file_path:
             font = TTFont(self._font_file_path)
         else:
