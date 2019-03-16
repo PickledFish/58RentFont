@@ -58,3 +58,5 @@ if __name__ == '__main__':
     print(rent_font.get_val('&#x9f92;&#x9ea3;&#x958f;&#x9fa4;'))
 
 ```
+
+更多实例 : [例子](https://github.com/PickledFish/58RentFont/tree/master/examples)
