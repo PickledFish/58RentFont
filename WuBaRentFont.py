@@ -4,8 +4,10 @@
 # @Software: PyCharm
 import base64
 from tempfile import TemporaryFile
-from Exceptions import ValueIsNoneException, MapIsNoneException
+
 from fontTools.ttLib import TTFont
+
+from Exceptions import ValueIsNoneException, MapIsNoneException
 
 
 class ParseXml:
