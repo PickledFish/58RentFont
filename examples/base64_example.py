@@ -1,12 +1,7 @@
-# 58RentFont
-58同城租房数字字体破解
-
-### 博客文章
-[58字体反反爬 | 潇湘贱鱼](https://scycoder.com/post/58-zi-ti-fan-fan-pa/)
-
-### 使用实例
-
-```python
+# @Time    : 2019/3/15 20:07
+# @Author  : SuanCaiYu
+# @File    : base64_example.py
+# @Software: PyCharm
 
 from WuBaRentFont import RentFont
 
@@ -53,8 +48,5 @@ if __name__ == '__main__':
     YBBwEIAQkBCgELAQwAAAAAAAAAAAAAAAAAAAAA
     """
     rent_font = RentFont(font_base64)
-    # 赋值可以在实例化的时候赋值，也可以在实例上赋值
     # rent_font.base64_string = font_base64
     print(rent_font.get_val('&#x9f92;&#x9ea3;&#x958f;&#x9fa4;'))
-
-```
