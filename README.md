@@ -2,7 +2,7 @@
 58同城租房数字字体破解
 
 ### 博客文章
-[58字体反反爬 | 潇湘贱鱼](https://scycoder.com/post/58-zi-ti-fan-fan-pa/)
+[58字体反反爬 | 潇湘贱鱼](https://pickledfish.github.io/post/58-zi-ti-fan-fan-pa/)
 
 ### 使用实例
 
